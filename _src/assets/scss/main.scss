@@ -1,4 +1,4 @@
-main {
+.main {
 	height: 100vh;
 	background-color: #ffcc00;
 	display: flex;
@@ -8,6 +8,7 @@ main {
 	.face {
 		font-size: 150px;
 		font-weight: bold;
+		margin-bottom: 60px;
 		
 	}
 	.mood {
@@ -16,7 +17,7 @@ main {
 		border-radius: 5px;
 		background-color: #eaeaea;
 		min-width: 100px;
-		margin-bottom: 20px;
+		
 	}
 	.button-default {
 		background-color: cornflowerblue;
